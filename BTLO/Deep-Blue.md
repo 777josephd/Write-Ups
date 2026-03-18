@@ -17,10 +17,13 @@ Run:
 
 Q1: Using DeepBlueCLI, investigate the recovered Security log (Security.evtx). Which user account ran GoogleUpdate.exe?
 
+The user's name is clearly visible from the command path, `Mike Smith`.
+
 <img width="728" height="398" alt="ss1 q1" src="https://github.com/user-attachments/assets/28575099-c135-46fe-bf4d-a331af771d0f" />
 
 
 Q2: Using DeepBlueCLI investigate the recovered Security.evtx log. At what time is there likely evidence of Meterpreter activity?
+
 
 <img width="576" height="331" alt="ss2 q2" src="https://github.com/user-attachments/assets/c7f46deb-703c-4f45-879e-772b41098adf" />
 
